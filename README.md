@@ -1,5 +1,5 @@
 # Hi, I’m matteo-lieto
-* I’m currently learning Software *
+* I’m currently learning Software Engineering *
 ** How to reach me ** matteolie13@gmail.com
 
 <!---
